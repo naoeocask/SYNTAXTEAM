@@ -23,8 +23,8 @@ A Syntax Team nasceu da paixão por criar experiências digitais marcantes. Trab
 
 ## 👥 Equipe
 
-- 🧠 **NaoeoCasK** – Fundador & Dev Front-End  
-- 🔧 **BigNexus** – Dev Full Stack & UI Designer  
+- 🧠 **𝗡𝗮𝗼𝗲𝗼𝗖𝗮𝘀𝗞** – Fundador & Dev Front-End  
+- 🔧 **𝕭𝖎𝖌 𝖎𝖘𝖆𝖆𝖈** – Dev Full Stack & UI Designer  
 - 💡 Outros membros e parceiros em breve!
 
 ---
@@ -34,7 +34,7 @@ A Syntax Team nasceu da paixão por criar experiências digitais marcantes. Trab
 Quer fazer parte da equipe ou precisa de um projeto?  
 Entre em contato pelo nosso Instagram ou Discord
 
-- 📷 Instagram: [@syntax.team](https://instagram.com/syntax.team)  
+- 📷 Instagram: [@syntax.team](https://instagram.com/syntaxteam_)  
 - 💬 Discord:[EAnrB9uve9](https://discord.com/invite/EAnrB9uve9)
 
 
