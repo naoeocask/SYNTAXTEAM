@@ -1,53 +1,85 @@
-# ⚡ Syntax Team
+⚡ Syntax Team
+Bem-vindo ao repositório oficial da Syntax Team!
+Sou especializado em desenvolvimento front-end de alta qualidade, entregando soluções digitais modernas, performáticas e personalizadas para transformar suas ideias em realidade.
 
-Bem-vindo ao repositório oficial da **Syntax Team**!  
-Somos uma equipe focada em **desenvolvimento web de alta qualidade**, entregando **soluções digitais modernas, rápidas e personalizadas** para qualquer projeto.
+🚀 Sobre Mim
+A Syntax Team nasceu da paixão por tecnologia e design, com o objetivo de criar experiências digitais excepcionais que combinam estética, funcionalidade e performance.
 
----
+🛠️ Meus Serviços
+💻 Desenvolvimento Front-End - Sites institucionais e landing pages
 
-## 🚀 Sobre Nós
+🎨 Design UI/UX - Interfaces modernas, intuitivas e responsivas
 
-A Syntax Team nasceu da paixão por criar experiências digitais marcantes. Trabalhamos com:
+📱 Design Responsivo - Layouts que se adaptam a qualquer dispositivo
 
-- 💻 Desenvolvimento de sites responsivos
-- 🧩 Design UI/UX personalizado
-- ⚙️ Integrações com APIs e sistemas externos
-- 🔐 Práticas modernas de segurança
-- 📈 Otimização de desempenho e SEO
+⚡ Otimização - Performance e SEO
 
-## 🌐 Acesse Nosso Site
+🔧 Manutenção - Suporte contínuo e atualizações
 
-🔗 [https://naoeocask.github.io/SYNTAXTEAM/](https://naoeocask.github.io/SYNTAXTEAM/)
+🌐 Portfólio
+🎯 Projetos em Destaque
+📚 Papo Com Inglês
+Web Site • Landing Page
+Site moderno e responsivo desenvolvido para uma escola 100% online de inglês, com foco no método de conversação. Apresenta aulas com professores nativos e brasileiros, design dinâmico e chamadas estratégicas para conversão de novos alunos.
 
----
+🛹 SoTrickDeRespeito
+Website • Revista Digital
+Página moderna e responsiva inspirada na cultura do skate, criada como uma revista digital com estilo autêntico de rua. O site conecta o público do Instagram, destaca conteúdos visuais e impulsiona o engajamento com a cena do skate nacional.
 
-## 👥 Equipe
+👤 Sobre Mim
+🧠 NaoeoCasK
+CEO & Desenvolvedor Front-End
+Desenvolvedor especializado em front-end com expertise em criar interfaces modernas e responsivas. Foco em qualidade, performance e experiência do usuário.
 
-- 🧠 **𝗡𝗮𝗼𝗲𝗼𝗖𝗮𝘀𝗞** – Fundador & Dev Front-End  
-- 🔧 **𝕭𝖎𝖌 𝖎𝖘𝖆𝖆𝖈** – Dev Full Stack & UI Designer  
-- 💡 Outros membros e parceiros em breve!
+🛠️ Tecnologias que Utilizo
+Front-end: HTML5, CSS3, JavaScript
 
----
+Estudando: React
 
-## 📬 Contato
+Básico: Python
 
-Quer fazer parte da equipe ou precisa de um projeto?  
-Entre em contato pelo nosso Instagram ou Discord
+Ferramentas: Git, Figma, VS Code
 
-- 📷 Instagram: [@syntax.team](https://instagram.com/syntaxteam_)  
-- 💬 Discord:[EAnrB9uve9](https://discord.com/invite/EAnrB9uve9)
+Hospedagem: Vercel, Netlify, GitHub Pages
 
+📞 Contato & Orçamentos
+💬 Canais de Atendimento
+WhatsApp: +55 (11) 91137-6502
 
----
+Instagram: @naoeocask
 
-## 🧠 Filosofia
+Discord: NaoeoCasK
 
-> “Desenvolver com excelência, criatividade e identidade.”
+🕒 Horário de Atendimento
+Segunda a Sexta: 09:00 - 18:00
 
----
+Sábado: 10:00 - 14:00
 
-### ⭐ Deixe uma estrela!
+Domingo: Fechado
 
-Se você curtiu esse projeto, deixe uma ⭐ aqui no repositório!  
-Isso nos motiva a continuar criando coisas incríveis.
+🎯 Filosofia de Trabalho
+"Código limpo, designs marcantes e soluções que fazem a diferença."
 
+Acredito que cada projeto é único e merece uma abordagem personalizada. Trabalho com tecnologias modernas e sigo as melhores práticas do mercado para entregar produtos que não apenas atendem, mas superam as expectativas.
+
+📈 Por que Escolher a Syntax Team?
+✅ Qualidade Garantida - Código limpo e bem documentado
+
+✅ Design Exclusivo - Cada projeto é único e personalizado
+
+✅ Suporte Contínuo - Acompanhamento pós-entrega
+
+✅ Prazos Cumpridos - Entregas dentro do cronograma
+
+✅ Comunicação Transparente - Atualizações regulares do projeto
+
+🌟 Destaques
+🔗 Site Oficial: https://naoeocask.github.io/SYNTAXTEAM/
+📷 Instagram: @syntaxteam_
+💬 Discord: NaoeoCasK
+
+⭐ Deixe uma Estrela!
+Se você curtiu meu trabalho, deixe uma ⭐ aqui no repositório!
+Isso me motiva a continuar criando coisas incríveis.
+
+Syntax Team - Desenvolvendo o futuro, um projeto de cada vez. 🚀
