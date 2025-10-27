@@ -35,7 +35,6 @@ h1, h2, h3, h4 {
     padding: 0 20px;
 }
 
-/* Header */
 header {
     background: linear-gradient(135deg, rgba(10,10,10,0.9) 0%, rgba(42,0,107,0.8) 100%);
     padding: 20px 0;
@@ -114,7 +113,6 @@ header {
     transition: all 0.3s ease;
 }
 
-/* Hero Sections */
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(10, 10, 10, 0.7), rgba(10, 10, 10, 0.7)), 
@@ -184,7 +182,6 @@ header {
     flex-wrap: wrap;
 }
 
-/* Buttons */
 .btn {
     display: inline-block;
     background: var(--primary-color);
@@ -217,7 +214,6 @@ header {
     color: var(--light-color);
 }
 
-/* Features */
 .features {
     padding: 80px 0;
     background: linear-gradient(135deg, rgba(10,10,10,0.95) 0%, rgba(20,0,50,0.9) 100%);
@@ -259,7 +255,6 @@ header {
     color: #ccc;
 }
 
-/* Stats */
 .stats {
     padding: 80px 0;
     background: var(--dark-color);
@@ -285,7 +280,6 @@ header {
     font-size: 1.1rem;
 }
 
-/* About Detailed */
 .about-detailed {
     padding: 100px 0;
     background: linear-gradient(135deg, rgba(10,10,10,0.95) 0%, rgba(20,0,50,0.9) 100%);
@@ -397,7 +391,6 @@ header {
     transform: translateY(-2px);
 }
 
-/* Portfolio Page */
 .portfolio-page {
     padding: 100px 0;
     background: var(--dark-color);
@@ -500,7 +493,6 @@ header {
     border: 1px solid rgba(106, 0, 255, 0.3);
 }
 
-/* Services Page */
 .services-page {
     padding: 100px 0;
     background: linear-gradient(135deg, rgba(10,10,10,0.95) 0%, rgba(20,0,50,0.9) 100%);
@@ -563,7 +555,6 @@ header {
     margin-right: 10px;
 }
 
-/* Process */
 .process {
     padding: 100px 0;
     background: var(--dark-color);
@@ -613,7 +604,6 @@ header {
     color: #ccc;
 }
 
-/* Contact Page */
 .contact-page {
     padding: 100px 0;
     background: linear-gradient(135deg, rgba(10,10,10,0.95) 0%, rgba(20,0,50,0.9) 100%);
@@ -740,7 +730,6 @@ header {
     box-shadow: 0 0 0 2px rgba(106, 0, 255, 0.2);
 }
 
-/* FAQ */
 .faq {
     padding: 100px 0;
     background: var(--dark-color);
@@ -777,7 +766,6 @@ header {
     line-height: 1.7;
 }
 
-/* Section Title */
 .section-title {
     text-align: center;
     margin-bottom: 60px;
@@ -796,7 +784,6 @@ header {
     border-radius: 2px;
 }
 
-/* Footer */
 footer {
     background: linear-gradient(135deg, rgba(42,0,107,0.9) 0%, rgba(10,10,10,1) 100%);
     padding: 50px 0 20px;
@@ -871,7 +858,6 @@ footer h3 a:hover {
     padding-top: 20px;
     border-top: 1px solid rgba(106, 0, 255, 0.2);
 }
-/* Contact Page - Updated */
 .contact-content-centered {
     max-width: 1000px;
     margin: 0 auto;
@@ -979,7 +965,6 @@ footer h3 a:hover {
     box-shadow: 0 10px 25px rgba(106, 0, 255, 0.5);
 }
 
-/* Availability Section */
 .contact-availability {
     margin-top: 40px;
 }
@@ -1036,7 +1021,6 @@ footer h3 a:hover {
     font-weight: 500;
 }
 
-/* FAQ Section Enhancement */
 .faq-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -1078,7 +1062,6 @@ footer h3 a:hover {
     line-height: 1.7;
 }
 
-/* Responsive Design for Contact Page */
 @media (max-width: 768px) {
     .contact-header h2 {
         font-size: 2rem;
