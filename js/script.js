@@ -1,4 +1,3 @@
-// Menu Mobile
 const hamburger = document.querySelector('.hamburger');
 const navLinks = document.querySelector('.nav-links');
 const links = document.querySelectorAll('.nav-links li');
@@ -30,7 +29,6 @@ if (links) {
     });
 }
 
-// Smooth Scrolling for anchor links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
         e.preventDefault();
@@ -48,7 +46,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Header Shadow on Scroll
 window.addEventListener('scroll', () => {
     const header = document.querySelector('header');
     if (window.scrollY > 50) {
@@ -58,7 +55,6 @@ window.addEventListener('scroll', () => {
     }
 });
 
-// Stats Counter Animation
 function animateStats() {
     const statItems = document.querySelectorAll('.stat-item h3');
     if (!statItems.length) return;
@@ -89,5 +85,4 @@ function animateStats() {
     });
 }
 
-// Initialize stats animation when page loads
 document.addEventListener('DOMContentLoaded', animateStats);
