@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NaoeoCasK - Syntax Team | Desenvolvedor Web</title>
+    <title>Portfólio - NaoeoCasK | Syntax Team</title>
     <link rel="icon" href="https://naoeocask.github.io/SYNTAXTEAM/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
@@ -29,48 +29,51 @@
         </div>
     </header>
 
-    <section class="hero" id="home">
-        <div class="hero-content">
-            <h1>NaoeoCasK</h1>
-            <p>CEO & Desenvolvedor na Syntax Team | Especialista em desenvolvimento web de alta qualidade com soluções personalizadas e tecnologia de ponta.</p>
-            <iframe width="100%" height="300" style="max-width: 500px; border-radius: 10px; box-shadow: 0 10px 30px rgba(106, 0, 255, 0.4); border: 1px solid var(--primary-color);" 
-                    src="https://www.youtube.com/embed/uFj2BTiNckY" 
-                    title="Site Modelo - Syntax Team" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-            </iframe>
-            <div class="hero-buttons">
-                <a href="portfolio.html" class="btn">Ver Portfólio</a>
-                <a href="contato.html" class="btn btn-outline">Entrar em Contato</a>
-            </div>
+    <section class="page-hero">
+        <div class="container">
+            <h1>Meu Portfólio</h1>
+            <p>Conheça alguns dos projetos que desenvolvi com dedicação e expertise</p>
         </div>
     </section>
 
-    <section class="features">
-        <div class="container">
-            <div class="features-grid">
-                <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-rocket"></i>
-                    </div>
-                    <h3>Desempenho</h3>
-                    <p>Sites otimizados para carregamento rápido e melhor experiência do usuário</p>
+<section class="portfolio-page">
+    <div class="container">       
+        <div class="portfolio-grid">                
+            <div class="portfolio-item" data-category="website">
+                <div class="portfolio-image">
+                    <img src="img/papocomingles.png" alt="Papo com Inglês">
                 </div>
-                <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-mobile-alt"></i>
+                <div class="portfolio-content">
+                    <h3>Papo Com Inglês</h3>
+                    <p class="category">Web Site • Landing Page</p>
+                    <p>Site moderno e responsivo desenvolvido para uma escola 100% online de inglês, com foco no método de conversação. 
+                    Apresenta aulas com professores nativos e brasileiros, design dinâmico e chamadas estratégicas para conversão de novos alunos.</p>
+                    <div class="portfolio-tech">
+                        <span>HTML5</span>
+                        <span>CSS3</span>
+                        <span>JavaScript</span>
                     </div>
-                    <h3>Responsivo</h3>
-                    <p>Layouts que se adaptam perfeitamente a todos os dispositivos</p>
+                    <a href="https://papocomingles.github.io/site" target="_blank" class="btn">Ver Detalhes</a>
                 </div>
-                <div class="feature-card">
-                    <div class="feature-icon">
-                        <i class="fas fa-shield-alt"></i>
+            </div>
+                
+            <div class="portfolio-item" data-category="website">
+                <div class="portfolio-image">
+                    <img src="img/sotrickderespeito.png" alt="SoTrickDeRespeito">
+                </div>
+                <div class="portfolio-content">
+                    <h3>SoTrickDeRespeito</h3>
+                    <p class="category">Website • Revista Digital</p>
+                    <p>Página moderna e responsiva inspirada na cultura do skate, criada como uma revista digital com estilo autêntico de rua. 
+                    O site conecta o público do Instagram, destaca conteúdos visuais e impulsiona o engajamento com a cena do skate nacional.</p>
+                    <div class="portfolio-tech">
+                        <span>HTML5</span>
+                        <span>CSS3</span>
+                        <span>JavaScript</span>
                     </div>
-                    <h3>Segurança</h3>
-                    <p>Desenvolvimento com as melhores práticas de segurança digital</p>
+                    <a href="https://naoeocask.github.io/sotrickderespeito" target="_blank" class="btn">Ver Detalhes</a>
                 </div>
+            </div>
             </div>
         </div>
     </section>
@@ -103,5 +106,6 @@
     </div>
 
     <script src="js/script.js"></script>
+    <script src="js/portfolio-filter.js"></script>
 </body>
 </html>
